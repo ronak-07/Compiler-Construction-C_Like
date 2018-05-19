@@ -1,0 +1,40 @@
+int x
+x=1
+int i
+i=1
+def int fun(int a,int b){
+return a+b
+}
+{
+int k
+in k
+if(k < 0)
+{
+out 0
+for(i;i<15;i=i+2){
+call(fun(i,j)j)
+}
+}
+else
+{
+out 1
+}
+if(x+y>i+j)
+{
+arrayd(a,100)
+}
+else
+{
+for(x;x<i+5;x=x*2)
+{
+arrayi(a,x,i*2)
+}
+}
+for(x;x<i+5;x=x*2)
+{
+int c
+c=0
+arraya(a,x,c)
+out c
+}
+}
